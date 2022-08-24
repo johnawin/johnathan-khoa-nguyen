@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 const ResumePage = () =>{
   return (
     <Layout pageTitle="Resume">
-      <p>Resume Page</p>
+      <p>My Resume will be linked here for download</p>
     </Layout>
   )
 }
