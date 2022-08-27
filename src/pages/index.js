@@ -8,6 +8,7 @@ const IndexPage = () => {
       <p>Johnathan Khoa</p>
       <StaticImage
         src="../images/IMG_0345.JPG"
+        height={300}
         />
     </Layout>
   )
