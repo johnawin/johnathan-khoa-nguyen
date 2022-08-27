@@ -18,7 +18,7 @@ const Layout = ({ pageTitle, children }) => {
           </Nav>
         </Container>
       </Navbar>
-      <Container>
+      <Container fluid bg="dark">
       <main>
         <h1>{pageTitle}</h1>
         {children}
